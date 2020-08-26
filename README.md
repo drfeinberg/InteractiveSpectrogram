@@ -7,3 +7,6 @@ Make sure you load your own sound file.
 ---------
 Installation instructions:
 You'll need the following packages and their dependencies:n praat-parselmouth and mpl-interactions
+
+
+[!Interactive Spectrogram Demo image](Interactive Spectrogram.gif)
