@@ -9,4 +9,4 @@ Installation instructions:
 You'll need the following packages and their dependencies:n praat-parselmouth and mpl-interactions
 
 
-[!Interactive Spectrogram Demo image](https://github.com/drfeinberg/InteractiveSpectrogram/blob/master/Interactive%20Spectrogram.gif)
+<img src="https://github.com/drfeinberg/InteractiveSpectrogram/blob/master/Interactive%20Spectrogram.gif">
